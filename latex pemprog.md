@@ -63,4 +63,3 @@ turunan:
 \tag {5}
 ```
 ---
-turunan geotermodinamika:
